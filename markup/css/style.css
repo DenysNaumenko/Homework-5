@@ -1,0 +1,53 @@
+
+
+/* {color: brown;}*/
+
+a {
+    color: rgba(228, 51, 122, 0.887);
+}
+
+#header {
+    color: darksalmon;
+}
+
+.lorem {
+    color: fuchsia;
+
+}
+
+.info,
+button {
+    color: rgb(237, 226, 24);
+}
+
+footer strong {
+    color: green
+}
+
+::placeholder {
+    color: indigo;
+}
+
+li:last-child {
+    color: rgb(4, 0, 255);
+}
+
+span {
+    color: brown;
+}
+
+div>span {
+    color: rgb(51, 0, 255);
+}
+
+a[href*="google"] {
+    color:rgba(0, 255, 153, 0.909)
+}
+
+input:enabled {
+    background-color: aqua;
+}
+
+b {
+    color: firebrick;
+}
